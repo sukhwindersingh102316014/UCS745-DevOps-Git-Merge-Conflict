@@ -10,4 +10,6 @@ A modular Python command-line calculator demonstrating Git version control workf
   - Division (`divide`) with zero-division handling
 
 ## Advanced Modules
-- Standard operations available. Additional mathematical modules under active development in separate feature branches.
+- **Scientific Operations Module (Branch: feature/scientific-ops)**:
+  - Exponentiation / Power (`power`) using `a ** b`
+  - Square Root calculation (`sqrt`) using Python `math.sqrt()` with negative input validation
