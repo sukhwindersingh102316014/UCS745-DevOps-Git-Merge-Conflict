@@ -10,4 +10,6 @@ A modular Python command-line calculator demonstrating Git version control workf
   - Division (`divide`) with zero-division handling
 
 ## Advanced Modules
-- Standard operations available. Additional mathematical modules under active development in separate feature branches.
+- **Financial Operations Module (Branch: feature/financial-ops)**:
+  - Percentage calculation (`percentage`) representing rate over base
+  - Modulo remainder calculation (`modulo`) with zero divisor check
